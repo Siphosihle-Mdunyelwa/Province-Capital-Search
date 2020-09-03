@@ -1,0 +1,65 @@
+[
+    {
+        "abbr": "EC",
+        "name": "Eastern Cape",
+        "capital": "Bisho",
+        "lat": "32.8499",
+        "long": "27.4410"
+    },
+    {
+        "abbr": "FS",
+        "name": "Free State",
+        "capital": "Bloemfontein",
+        "lat": "29.0852",
+        "long": "26.1596"
+    },
+    {
+        "abbr": "GP",
+        "name": "Gauteng",
+        "capital": "Pretoria",
+        "lat": "25.74796",
+        "long": "28.2293"
+    },
+    {
+        "abbr": "KZN",
+        "name": "KwaZulu-Natal",
+        "capital": "Pietermaritzburg",
+        "lat": "29.6006",
+        "long": "30.3794"
+    },
+    {
+        "abbr": "LP",
+        "name": "Limpopo",
+        "capital": "Polokwane",
+        "lat": "23.8962",
+        "long": "29.4486"
+    },
+    {
+        "abbr": "MP",
+        "name": "Mpumalanga",
+        "capital": "Nelspruit",
+        "lat": "25.4753",
+        "long": "30.9694"
+    },
+    {
+        "abbr": "NW",
+        "name": "North West",
+        "capital": "Mahikeng",
+        "lat": "25.8560",
+        "long": "25.6403"
+    },
+    {
+        "abbr": "NC",
+        "name": "Northern Cape",
+        "capital": "Kimberley",
+        "lat": "28.7282",
+        "long": "24.7499"
+    },
+    {
+        "abbr": "WC",
+        "name": "Western Cape",
+        "capital": "Cape Town",
+        "lat": "33.9249",
+        "long": "18.4241"
+    }
+]
